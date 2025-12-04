@@ -63,7 +63,7 @@ My engineering journey taught me the art of debugging, testing, and ensuring sys
 
 #### 🤝 Connect With Me!
 - [LinkedIn: Sai Pavan Akasam](https://www.linkedin.com/in/sai-pavan-akasam-2096351a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bzj7pi%2FISQ%2BuG6Db4Jb3fzw%3D%3D)
-- [GitHub Profile](https://github.com/sai-pavan-akasam)
+
 - Open to collaborations, mentoring requests, and speaking opportunities!
 
 ---
